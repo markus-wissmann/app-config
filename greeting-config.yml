@@ -14,12 +14,11 @@ management:
 
 logging:
   level:
-    io:
-      pivotal: INFO
-        greeting: INFO
+    io.pivotal: "INFO"
+    io.pivotal.greeting: "INFO"
 
 
 greeting:
   displayFortune: true
 
-quoteServiceURL: http://quote-service-dev.cfapps.io/quote
+quoteServiceURL: "http://quote-service-dev.cfapps.io/quote"
