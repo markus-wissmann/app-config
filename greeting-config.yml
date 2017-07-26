@@ -14,8 +14,8 @@ management:
 
 logging:
   level:
-    io.pivotal: "INFO"
-    io.pivotal.greeting: "DEBUG"
+    io:
+      pivotal: "DEBUG"
 
 
 greeting:
