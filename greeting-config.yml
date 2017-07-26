@@ -15,7 +15,7 @@ management:
 logging:
   level:
     io:
-      pivotal: "DEBUG"
+      pivotal: "INFO"
 
 
 greeting:
