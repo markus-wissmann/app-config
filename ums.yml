@@ -9,6 +9,7 @@ logging:
 security:
   basic:
     enabled: true
+  user
     name: markus
     password: geheim
 
