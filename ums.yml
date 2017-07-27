@@ -1,4 +1,4 @@
-billingEndpointUrl: http://YYYbilling/reoccurringPayment
+billingEndpointUrl: http://billing/reoccurringPayment
 
 
 logging:
