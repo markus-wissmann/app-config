@@ -1,1 +1,7 @@
-billingEndpointUrl: http://XXXbilling/reoccurringPayment
+billingEndpointUrl: http://YYYbilling/reoccurringPayment
+
+
+logging:
+  level:
+    com:
+      example: DEBUG
