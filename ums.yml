@@ -5,3 +5,14 @@ logging:
   level:
     com:
       example: DEBUG
+
+security:
+  basic:
+    enabled: true
+    name: markus
+    password: geheim
+
+
+management:
+  security:
+    enabled: false
